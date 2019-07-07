@@ -1,0 +1,23 @@
+.first {
+  background-color: red;
+}
+
+header {
+  align: center;
+}
+
+.second {
+  color: red;
+  background-color: blue;
+  text-align: center;
+}
+
+a {
+  cursor: wait;
+  color: orange;
+}
+
+a:hover {
+  color: blue;
+  background-color: orange;
+}
